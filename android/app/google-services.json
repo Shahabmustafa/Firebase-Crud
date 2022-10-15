@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1008775514502",
+    "project_id": "result-88513",
+    "storage_bucket": "result-88513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008775514502:android:21f3c74996b64865d30407",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008775514502-pk1hvk5es24atqfc11bd6n852kuhh382.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0QTX3rtj58_yAdkwGiGcsQTP5M485iS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008775514502-pk1hvk5es24atqfc11bd6n852kuhh382.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1008775514502-8ftrplsit6g1hej01q4354kgt5af0ul4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kitoobApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
